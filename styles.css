@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    padding: 20%;
+}
+
+h1{
+    font-family: "Roboto";
+    font-size: 17px;  
+    margin: -1%;
+    padding: 5px;
+}
+
+p{
+
+    padding: 0% 4%;
+    font-family: Roboto;
+}
+
+img{
+    width: 553px;
+    height: 419px;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+
+.post{
+    width: 553px;
+    height: 766px;
+    background-color: white;
+    justify-content: center;
+    position: relative;
+    margin: auto;
+    border-radius: 3px;
+}
+
+.post-header{
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+
+}
+
+i.fa-ellipsis-vertical{
+    padding-left: 75%;
+    font-size: 35px;
+}
+
+i.fa-html5{
+    padding-right: 5%;
+    font-size: 35px;
+}
+
+i.fa-bookmark{
+    padding-left: 350px;
+}
+
+.post-icons{
+    display: flex;
+    gap: 15px;
+    justify-content:center;
+    font-size:33px;"
+    padding-top: 15px;
+}
+
+.comment{
+    display: flex;
+    font-size: 18px;
+    padding: 4%;
+    margin-top: -3%;
+    
+}
+
+input{
+    border: hidden;
+    justify-content: flex-start;
+    font-size: 16px;
+    padding-right: 58%;
+}
+
+i.fa-face-smile{
+    justify-content: flex-end;
+    padding-left: 5%;
+}
